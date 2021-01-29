@@ -1,7 +1,8 @@
 # Top level control for managing the dev work
 
 # ----- Project Macro ----- #
-UnitTestName := LoadEventNexusTest
+#UnitTestName := LoadEventNexusTest
+UnitTestName := absorptioncorrutilsTest
 TestScript := test.py
 
 # ------------------------------------------------------ #
